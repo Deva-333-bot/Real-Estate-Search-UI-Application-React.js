@@ -50,7 +50,7 @@ const Footer = () => {
         {/* Social Links */}
         <div>
           <h3 className="text-xl font-semibold mb-3 border-b-2 border-white inline-block pb-1">
-            Follow Me
+            Follow Us
           </h3>
           <div className="flex justify-center md:justify-start gap-4 mt-4 text-2xl">
             <a href="https://github.com/YOUR_GITHUB" target="_blank" rel="noreferrer">
