@@ -71,7 +71,7 @@ const Footer = () => {
 
       {/* Footer Bottom */}
       <div className="text-center text-green-100 mt-10 border-t border-green-300 pt-4 text-sm">
-        © {new Date().getFullYear()} Oduor Daivine Oluoch | All Rights Reserved
+        © {new Date().getFullYear()} Codnify.dev | All Rights Reserved
       </div>
     </footer>
   );
